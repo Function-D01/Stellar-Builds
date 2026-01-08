@@ -1,6 +1,6 @@
 # 🏗️ Stellar Builds — Construction Company Website
 
-![Stellar Builds](<images\Stellar_builds.png>)
+![Stellar Builds](<images/Stellar_builds.png>)
 
 ## 📌 Project Title
 
