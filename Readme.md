@@ -1,6 +1,6 @@
 # 🏗️ Stellar Builds — Construction Company Website
 
-![alt text](<Stellar_builds.png>)
+![alt text](<images\Stellar_builds.png>)
 
 ## 📌 Project Title
 
@@ -27,39 +27,30 @@ This project serves as a **frontend demonstration** built with HTML, CSS, and Ja
 ## ⭐ Features
 
 * **Hero Image Slider**
-
   * Auto-transition slides with text overlays and dot navigation
 
 * **Preloader Animation**
-
   * Animated loader before page renders for smoother UX
 
 * **Responsive Navigation Bar**
-
   * Includes hamburger menu for smaller screens
 
 * **Services Section**
-
   * Icon-based service cards with descriptions
 
 * **Projects Section**
-
   * Image grid with animated title overlays
 
 * **Scroll Reveal Animations**
-
   * Sections fade & slide into view while scrolling
 
 * **Contact Form**
-
   * Responsive layout with centered Submit & Reset buttons
 
 * **Footer with Social Media Links**
-
   * Quick navigation, services list, about section, and social icons
   
 * **SEO Optimized**
-
   * Includes title, meta description, keywords, and author information
 
 ---
